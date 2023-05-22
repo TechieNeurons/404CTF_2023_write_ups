@@ -1,11 +1,11 @@
 # Write ups for 404CTF 2023
 
 ## Forensics
-- [X] [Intro - pêche au livre]()
-- [X] [Le mystère du roman d'amour]()
-- [X] [Les mystères du cluster de la comtesse de Ségur]()
-- [X] [Lettres volatiles]()
-- [X] [Note de bas de page]()
+- [X] [Intro - pêche au livre](./forensics/peche_au_livre/)
+- [X] [Le mystère du roman d'amour](./forensics/le_mystere_du_roman_d_amour/)
+- [X] [Les mystères du cluster de la comtesse de Ségur](./forensics/les_myst%C3%A8res_du_cluster_de_la_comtesse_de_segur/)
+- [X] [Lettres volatiles](./forensics/lettres_volatiles/)
+- [X] [Note de bas de page](./forensics/note_de_bas_de_page/)
 
 ## Cloud
 - [X] [Intro - Le sot](./cloud/intro_sot/)
