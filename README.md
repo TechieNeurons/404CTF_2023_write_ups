@@ -24,6 +24,7 @@
 ## Stegano
 - [X] [Intro - Odobenus Rosmarus](./stegano/odobenus_rosmarus/)
 - [X] [L'oeuvre](./stegano/loeuvre/)
+- [X] [Les félicitations](./stegano/les_felicitations/)
 
 ## OSINT
 - [X] [Intro - Le tour de France](./osint/intro_le_tour_de_france/)
