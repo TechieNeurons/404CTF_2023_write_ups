@@ -16,7 +16,7 @@
 - [X] [Intro - Le divin crackme](./reverse/le_divin_crackme/)
 - [X] [L'inspirations en images](./reverse/l_inspiration_en_images/)
 - [ ] [Introspection](./reverse/introspection/)
-- [ ] [Les mystères du cluster de la comtesse de Ségur](./reverse/les_myst%C3%A8res_du_cluster_de_la_comtesse_de_segur/)
+- [X] [Les mystères du cluster de la comtesse de Ségur](./reverse/les_myst%C3%A8res_du_cluster_de_la_comtesse_de_segur/)
 - [ ] [Jouer ou ne pas jouer](./reverse/jouer_ou_ne_pas_jouer/)
 - [ ] [Décortique mon vélocipède mécanique](./reverse/decortique_mon_velocipede_mecanique/)
 - [ ] [Le jour du mange poney](./reverse/le_jour_du_mange_poney/)
