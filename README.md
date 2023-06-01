@@ -16,6 +16,7 @@
 ## Reverse
 - [X] [Intro - Le divin crackme](./reverse/le_divin_crackme/)
 - [X] [L'inspirations en images](./reverse/l_inspiration_en_images/)
+- [ ] [Encore une mise à jour !](./reverse/encore_une_mise_a_jour/)
 - [ ] [Introspection](./reverse/introspection/)
 - [X] [Les mystères du cluster de la comtesse de Ségur](./reverse/les_myst%C3%A8res_du_cluster_de_la_comtesse_de_segur/)
 - [ ] [Jouer ou ne pas jouer](./reverse/jouer_ou_ne_pas_jouer/)
