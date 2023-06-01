@@ -6,6 +6,7 @@
 - [X] [Les mystères du cluster de la comtesse de Ségur](./forensics/les_myst%C3%A8res_du_cluster_de_la_comtesse_de_segur/)
 - [X] [Lettres volatiles](./forensics/lettres_volatiles/)
 - [X] [Note de bas de page](./forensics/note_de_bas_de_page/)
+- [ ] [Le cracken](./forensics/le_cracken)
 
 ## Cloud
 - [X] [Intro - Le sot](./cloud/intro_sot/)
