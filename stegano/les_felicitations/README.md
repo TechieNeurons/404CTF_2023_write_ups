@@ -23,8 +23,6 @@
 >
 > Auteur : NainCapable#2614
 
-Look for acrostic :
-https://www.dcode.fr/acrostic-extraction
+1. Look for acrostic : https://www.dcode.fr/acrostic-extraction
 
-xlnl nous donne :
-Très Bien Joué
+2. xlnl nous donne : "Très Bien Joué"
