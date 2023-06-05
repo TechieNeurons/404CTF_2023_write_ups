@@ -1,5 +1,4 @@
 > # Harpagon et le magot
-> 996
 >
 > Un homme en habits de laquais fait les cents pas, seul au fond du café. Vous vous en approchez par curiosité.
 >
