@@ -10,7 +10,7 @@
 > Auteur : Typhlos#9037
 
 1. I knew nothing about kubernetes so I made some research first, I kept 3 link which was useful for this challenge :
-- https://kubernetes.io/blog/2022/12/05forensic-container-checkpointing-alpha/
+- https://kubernetes.io/blog/2022/12/05/forensic-container-checkpointing-alpha/
 - https://kubernetes.io/blog/2023/03/10/forensic-container-analysis/
 
 2. To solve the chall, I extracted the zip, then I did a strings on every checkpoint and I filtered to find 404.
